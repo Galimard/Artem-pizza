@@ -1,5 +1,6 @@
 {
   "name": "artem-pizza",
+  "description": "приложение создает пиццу по вашему вкусу",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
